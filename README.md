@@ -41,13 +41,13 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 ---
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: https://itcoin.vn
+[course]: https://itcoin.vn
+[twitter]: https://itcoin.vn
+[youtube]: https://itcoin.vn
+[instagram]: https://itcoin.vn
+[linkedin]: https://itcoin.vn
+[webdevplaylist]: https://itcoin.vn
+[jsplaylist]: https://itcoin.vn
+[cssplaylist]: https://itcoin.vn
+[reactplaylist]: https://itcoin.vn
