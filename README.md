@@ -1,8 +1,23 @@
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+</p>
+
+### 🤵 About Me:
 - 👋 Hi, I’m @itcoinvn
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/AVS1508" >
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itcoinvn&count_private=true&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/? username=itcoinvn&langs_count=8&theme=radical&layout=compact&hide=html,css,MQL4" />
+  </a>
+</p>
 
 <!---
 itcoinvn/itcoinvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
