@@ -4,11 +4,8 @@
 </p>
 
 ### 🤵 About Me:
-- 👋 Hi, I’m @itcoinvn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Duc Pham
+- 👀 I’m interested in technology architecture
 
 <br>
 
